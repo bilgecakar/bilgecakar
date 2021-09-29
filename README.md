@@ -17,15 +17,10 @@
 
 <h3 align="left">Technologies and Tools:</h3>
 <p align="left"> 
+ 
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
-
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" width="30" height="30"/> </a>
-
-<a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="flutter" width="30" height="30"/> </a>
-
-
 
 
 </p>
