@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
-<p > 
+<p style="text-align:left"> 
  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="30"/> </a>
 
