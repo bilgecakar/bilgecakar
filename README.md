@@ -19,7 +19,7 @@
 <p style="text-align:left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="blank"><img align="center" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" height="30" width="30" /></a>
  
-<a href="https://git-scm.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"" alt="git" height="30" width="30" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30" /></a>
  
 <a href="https://firebase.google.com/" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/119/167/png-clipart-firebase-cloud-messaging-google-developers-software-development-kit-google-angle-triangle-thumbnail.png" alt="firebase" height="30" width="30" /></a>
  
