@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilge</h1>
 <h3 align="center">A Software Developer from Turkey from Istanbul</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onurbolukbas&theme=dracula" alt="onurbolukbas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgecakar&theme=dracula" alt="bilgecakar" /></a> </p>
 
 - 🌱 I’m currently learning Unity 3d to develop games
 
