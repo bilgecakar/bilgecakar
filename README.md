@@ -22,8 +22,8 @@
 <a href="https://flutter.dev/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png" alt="flutter" height="30" width="30" /></a>
 <a href="https://wordpress.com/" target="blank"><img align="center" src="https://seeklogo.com/images/W/wordpress-icon-logo-45667D3313-seeklogo.com.png" alt="wordpress" height="30" width="30" /></a>
 <a href="https://www.w3schools.com/html/" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" alt="html5" height="30" width="30" /></a>
-
-
+<a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="css" height="30" width="30" /></a>
+<a href="https://www.javascript.com/" target="blank"><img align="center" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-7.jpg" alt="javascript" height="30" width="30" /></a>
 </p>
 
 
