@@ -14,6 +14,7 @@
 <p style="text-align:left">
 <a href="https://www.linkedin.com/in/bilgecakar/" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="bilgecakar" height="30" width="30" /></a>
 <a href="https://www.instagram.com/blg.cakar/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="bilgecakar" height="30" width="30" /></a>
+<a href="https://steamcommunity.com/profiles/76561198805057979/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/512px-Steam_icon_logo.svg.png" alt="bilgecakar" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Technologies and Tools:</h3>
@@ -31,12 +32,12 @@
 <a href="https://www.sourcetreeapp.com/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/907270522492383232/8wgOvccc_400x400.jpg" alt="androidstudio" height="30" width="30" /></a>
 <a href="https://unity.com/" target="blank"><img align="center" src="https://pngimage.net/wp-content/uploads/2018/06/unity-icon-png-6.png" alt="androidstudio" height="30" width="30" /></a>
 </p>
+<hr></hr>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilgecakar&show_icons=true&theme=dark&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilgecakar&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
 
 <p>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgecakar&show_icons=true&theme=dark&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilgecakar&show_icons=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
 
 
 
