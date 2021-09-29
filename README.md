@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bilge</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Bilge</h1>
 <h3 align="center">A Software Developer from Turkey from Istanbul</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgecakar&theme=dracula" alt="bilgecakar" /></a> </p>
 
