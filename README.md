@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgecakar&theme=discord" alt="bilgecakar" /></a> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> </p>
 
-- 🌱 I’m currently learning Unity 3d to develop games
+- 🌱 I’m currently learning Unity 3d to develop games and Swift.
 
 - 📝 My [Instagram page](https://www.instagram.com/blg.cakar/)
 
