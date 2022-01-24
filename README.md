@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Unity 3d to develop games and Swift.
 
-- 📝 My [Instagram page](https://www.instagram.com/blg.cakar/)
+- 📝 Also I love drawing digital art with Adobe Illustrator and Krita. My [Art Instagram page](https://www.instagram.com/nica_studio/)
 
 - 📫 Email :  **bilgecakar123@gmail.com**
 
