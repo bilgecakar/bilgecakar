@@ -1,11 +1,12 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Bilge</h1>
-<h3 align="center">A Software Developer from Turkey from Istanbul</h3>
+<h3 align="center">A IOS Developer from Turkey from Istanbul</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgecakar&theme=discord" alt="bilgecakar" /></a> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bilgecakar&theme=discord" alt="bilgecakar" /></a> <img align='right' src="https://media.giphy.com/media/Qp8JVw4n37No6spF3s/giphy.gif" width="230"> </p>
 
-- 🌱 I’m currently learning IOS Development.
-- 📫 Email :  **bilgecakar123@gmail.com**
+- 🌱 I’m currently learning <strong>Swift / IOS Development</strong>.
+- 📫 How to reach me  **bilgecakar123@gmail.com**
+- ❓ Ask me about IOS Development and Swift.
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align:left">
@@ -25,8 +26,7 @@
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png" alt="bootstrap" height="30" width="30" /></a>
 <a href="https://developer.android.com/" target="blank"><img align="center" src="https://e1.pngegg.com/pngimages/736/783/png-clipart-macos-app-icons-android-studio.png" alt="androidstudio" height="30" width="30" /></a>
 <a href="https://www.sourcetreeapp.com/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/907270522492383232/8wgOvccc_400x400.jpg" alt="androidstudio" height="30" width="30" /></a>
-<a href="https://unity.com/" target="blank"><img align="center" src="https://pngimage.net/wp-content/uploads/2018/06/unity-icon-png-6.png" alt="unity3d" height="30" width="30" /></a>
-<a href="https://unity.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/214/214542.png" alt="swift" height="30" width="30" /></a>
+<a href="https://developer.apple.com/swift/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/214/214542.png" alt="swift" height="30" width="30" /></a>
 </p>
 <hr></hr>
 
